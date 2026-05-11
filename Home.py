@@ -22,8 +22,7 @@ My perspective is shaped by the deep, but my tools are built on data. At **Ocean
 This space houses the interactive simulators and auditing tools featured in the Ocean Buzz newsletter. 
 
 **👈 Use the sidebar to navigate between our current tools:**
-*   **Blue Carbon ROI Simulator:** Calculate the stochastic risk and financial yield of coastal carbon projects.
-*   **Corporate Offset Calculator:** Work backward from your emission targets to find the real cost of high-integrity blue carbon offsets.
+*   **Blue Carbon Offset:** Input your corporate footprint, budget, and investment horizon to algorithmically match your mandate with the optimal coastal asset class..
 *   **Blue Bond NLP Screener:** Upload corporate sustainability reports to automatically detect greenwashing and verify ocean-centric impact.
 *   *(More tools deploying soon...)*
 """, unsafe_allow_html=True)
