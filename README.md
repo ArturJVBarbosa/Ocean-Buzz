@@ -21,5 +21,19 @@ To run the Ocean Buzz Data Lab on your local machine, follow these steps:
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/ArturJVBarbosa/Ocean-Buzz.git](https://github.com/ArturJVBarbosa/Ocean-Buzz.git)
+git clone https://github.com/ArturJVBarbosa/Ocean-Buzz.git
 cd Ocean-Buzz
+```
+**2. Create and activate a virtual environment (Recommended):**
+```bash
+# On macOS/Linux
+python -m venv venv
+source venv/bin/activate
+
+# On Windows
+python -m venv venv
+venv\Scripts\activate
+```
+**3. Install dependencies:**
+```bash
+pip install -r requirements.txt
