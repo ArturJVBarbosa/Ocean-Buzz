@@ -37,3 +37,17 @@ venv\Scripts\activate
 **3. Install dependencies:**
 ```bash
 pip install -r requirements.txt
+```
+
+## 📂 Project Structure
+
+```text
+Ocean-Buzz/
+│
+├── Home.py                  # Main Streamlit landing page
+├── pages/                   # Directory containing individual tool scripts
+│   ├── 1_BCO_Calculator.py  
+│   └── 2_NLP_Screener.py    
+├── utils.py                 # Helper functions and global styling
+├── requirements.txt         # Python dependencies
+└── README.md                # Project documentation
