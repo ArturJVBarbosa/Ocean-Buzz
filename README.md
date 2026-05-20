@@ -13,7 +13,6 @@ Welcome to the **Ocean Buzz Data Lab**. This repository houses the source code f
 Currently, the Data Lab features the following operational modules:
 
 * **Blue Carbon Offset (BCO) Budget Calculator:** A financial modeling tool that allows users to input corporate Carbon Offset Targets and time windows to generate baseline budget estimations for meeting sustainability needs.
-* **Blue Bond NLP Screener:** An automated auditing tool. Users can upload corporate financial and sustainability reports, and the tool uses Natural Language Processing (NLP) with weighted scoring to detect greenwashing and verify genuine ocean-centric impact.
 
 ## 🚀 Local Installation & Usage
 
@@ -46,8 +45,7 @@ Ocean-Buzz/
 │
 ├── Home.py                  # Main Streamlit landing page
 ├── pages/                   # Directory containing individual tool scripts
-│   ├── 1_BCO_Calculator.py  
-│   └── 2_NLP_Screener.py    
+│   └── 1_BCO_Calculator.py   
 ├── utils.py                 # Helper functions and global styling
 ├── requirements.txt         # Python dependencies
 └── README.md                # Project documentation
