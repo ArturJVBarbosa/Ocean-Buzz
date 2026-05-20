@@ -26,7 +26,6 @@ This space houses the interactive simulators and auditing tools featured in the 
 
 **👈 Use the sidebar to navigate between our current tools:**
 *   **Blue Carbon Offset (BCO) Budget Calculator:** Input your corporate Carbon Offset Target and time window to have an estimation of needed budget to meet your needs.
-*   **Blue Bond NLP Screener:** Upload corporate sustainability reports to automatically detect greenwashing and verify ocean-centric impact.
 *   *(More tools deploying soon...)*
 """, unsafe_allow_html=True)
 
@@ -59,6 +58,6 @@ with st.container(border=True):
     # --- Row 3: Instagram ---
     row3_col1, row3_col2 = st.columns(col_ratio)
     with row3_col1:
-        st.markdown("📸 **The Visuals:** For the TLDR people and basic concepts.")
+        st.markdown("📸 **The Visuals:** For 101 concepts and the TLDR people.")
     with row3_col2:
         st.link_button("📱 Instagram", INSTAGRAM_URL, use_container_width=True)
