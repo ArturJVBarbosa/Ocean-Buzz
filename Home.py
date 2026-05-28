@@ -7,7 +7,7 @@ GITHUB_URL = "https://github.com/ArturJVBarbosa/Ocean-Buzz"
 INSTAGRAM_URL = "https://instagram.com/oceanbuzz_"
 
 # Page Config
-st.set_page_config(page_title="Ocean Buzz | Data Lab", page_icon="🌊", layout="centered")
+st.set_page_config(page_title="Ocean Buzz Rig", page_icon="🌊", layout="centered")
 
 # Apply Theme
 apply_sunlight_theme()
@@ -21,7 +21,7 @@ st.write("---")
 st.markdown("""
 At **Ocean Buzz**, I take the vast, often murky currents of global information and transform them into real signal. Don't just look at the surface; deep-dive into the numbers to find what’s actually driving the Blue Economy and our planet's future.
 
-### 🤿 The Data Lab
+### 🤿 The Ocean Buzz Rig
 This space houses the interactive simulators and auditing tools featured in the Ocean Buzz newsletter. 
 
 **👈 Use the sidebar to navigate between our current tools:**
